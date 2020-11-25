@@ -17,20 +17,29 @@ export async function getStaticProps() {
 export default function Home({ allPostsData }) {
   return (
     <Layout home>
+      <div className={utilStyles.flex}>
+        <Link href="/players">
+        <button className="button button5">Player Profiles</button>
+        </Link>
+        <Link href="/newsletter">
+        <button className="button button5">Newsletter</button>
+        </Link>
+      </div>
        <Head>
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Welcome to Next Daily Fantasy Sports. We are a blog featuring articles on fantasy football and software development.</p>
+        <p>Welcome to rosterbox, the next exciting thing in betting and daily fantasy sports.</p>
+         <p>We feature player profiles and articles on your favorite teams.</p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>New Articles</h2>
 
-        <ul className={utilStyles.list}>
+        <div className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, thumbnail }) => (
             <Link href="/posts/[id]" as={`/posts/${id}`}>
-            <li className={utilStyles.listItem} key={id}>
+            <div className={utilStyles.listItem} key={id}>
                <img src={thumbnail} className={utilStyles.listImg} />
                <div>
                   <a>{title}</a>
@@ -39,10 +48,10 @@ export default function Home({ allPostsData }) {
                 <Date dateString={date} />
               </small>
                </div>
-            </li>
+            </div>
             </Link>
           ))}
-        </ul>
+        </div>
 
       </section>
     </Layout>

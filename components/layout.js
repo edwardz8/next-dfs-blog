@@ -17,7 +17,7 @@ return (
         <header className={styles.header}>
             {home ? (
                 <>
-                <img src="/football_dark_icon.svg"
+                <img src="/box-icon.svg"
                      className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`} alt={name}
                 />
                 <h1 className={utilStyles.heading2XL}>{name}</h1>
@@ -26,7 +26,7 @@ return (
                 <>
                 <Link href="/">
                     <a>
-                        <img src="/football_dark_icon.svg" className={`${styles.headerImage} ${utilStyles.borderCircle}`} alt={name} />
+                        <img src="/box-icon.svg" className={`${styles.headerImage} ${utilStyles.borderCircle}`} alt={name} />
                     </a>
                 </Link>
                 <h2 className={utilStyles.headingLg}>
