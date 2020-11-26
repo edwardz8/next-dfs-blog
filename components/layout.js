@@ -4,14 +4,15 @@ import Link from 'next/link'
 import utilStyles from '../styles/utils.module.css'
 
 const name = 'rosterbox'
-export const siteTitle = 'rosterbox fantasy sports app'
+export const siteTitle = 'rosterbox daily fantasy sports and betting'
+export const description = 'rosterbox daily fantasy sports and betting and player profiles'
 
 export default function Layout({ children, home }) {
 return (
     <div className={styles.container}>
         <Head>
-            <link rel="icon" href="../public/football_light_icon.svg" />
-            <meta name="description" content="rosterbox fantasy sports app" />
+            <link rel="icon" href="../public/box-icon.svg" />
+            <meta name="og:description" content={description} />
             <meta name="og:title" content={siteTitle} />
         </Head>
         <header className={styles.header}>
