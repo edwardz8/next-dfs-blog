@@ -121,13 +121,9 @@
 
   @media (max-width: 600px) {
     .playerItem {
-      max-height: 300px;
+      max-height: 330px;
     }
     .listItem {
       width: 80%;
     }
-    .profile_card {
-      min-width: 80%;
-      margin: 0 auto;
-     }
    }
