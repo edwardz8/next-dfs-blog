@@ -40,8 +40,6 @@
   .playerFlex {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     text-align: center;
   }
 
@@ -67,9 +65,7 @@
     background-color: #ffffff;
     border-radius: 1px;
     border: 1px solid;
-    padding: 20px;
     box-shadow: 5px 10px;
-    min-width: 500px;
   }
 
   .playerItem {
@@ -121,7 +117,6 @@
   
   .lightText {
     color: #999;
-    font-size: .7em;
   }
 
   @media (max-width: 600px) {
