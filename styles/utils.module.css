@@ -104,7 +104,7 @@
   }
 
   .listImg {
-    max-width: 250px;
+    max-width: 230px;
     margin-right: 1rem;
     border-radius: .4px;
   }
@@ -116,5 +116,8 @@
   @media (max-width: 600px) {
     .lightText {
       font-size: 1em;
+    }
+    .playerFlex {
+      flex-wrap: wrap;
     }
    }
