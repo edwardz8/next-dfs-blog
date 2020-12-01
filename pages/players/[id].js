@@ -18,7 +18,6 @@ export default function Player({ playerData }) {
                 <p>{playerData.position}</p>
                 <p>Price: {playerData.salary}</p>
                 </div>
-                {/* <Date dateString={playerData.date} /> */}
             </div>
             </article>
         
