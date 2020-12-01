@@ -102,7 +102,7 @@
 
   .listItemContainer {
     padding-top: 2px;
-    padding-left: 2px;
+    padding-left: 4px;
   }
 
   .playerItem:hover {
@@ -122,5 +122,8 @@
   @media (max-width: 600px) {
     .playerItem {
       max-height: 300px;
+    }
+    .listItem {
+      width: 80%;
     }
    }
