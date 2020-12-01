@@ -66,12 +66,13 @@
     border: 1px solid;
     padding: 20px;
     box-shadow: 5px 10px;
+    min-width: 500px;
   }
 
   .playerItem {
     margin: 1rem 0 1.25rem;
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     background-color: #ffffff;
     border-radius: 1px;
     border: 1px solid;
@@ -111,3 +112,9 @@
   .lightText {
     color: #999;
   }
+
+  @media (max-width: 600px) {
+    .lightText {
+      font-size: 1em;
+    }
+   }

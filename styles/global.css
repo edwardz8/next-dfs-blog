@@ -60,7 +60,7 @@ img {
     margin-top: 3rem;
   }
 
-  .card {
+  /* .card {
     margin: 1rem;
     flex-basis: 45%;
     padding: 1.5rem;
@@ -79,16 +79,7 @@ img {
     border-color: #0070f3;
   }
 
-  .card h3 {
-    margin: 0 0 1rem 0;
-    font-size: 1.5rem;
-  }
-
-  .card p {
-    margin: 0;
-    font-size: 1.25rem;
-    line-height: 1.5;
-  }
+  .card h3  */
 
   .logo {
     height: 1em;
@@ -115,7 +106,6 @@ img {
     padding: 10px;
   }
 
-
    th {
       background-color: #000;
       color: white;
@@ -123,7 +113,11 @@ img {
 
   @media (max-width: 600px) {
     .grid {
-      width: 100%;
+      width: 80%;
       flex-direction: column;
     }
+    h1 {
+      font-size: 1.1em;
+    }
+   
   }
