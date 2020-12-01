@@ -41,7 +41,7 @@ export default function Home({ allPostsData }) {
             <Link href="/posts/[id]" as={`/posts/${id}`}>
             <div className={utilStyles.listItem} key={id}>
                <img src={thumbnail} className={utilStyles.listImg} />
-               <div>
+               <div className={utilStyles.listItemContainer}>
                   <a>{title}</a>
               <br />
               <small className={utilStyles.lightText}>

@@ -83,7 +83,7 @@
   
   .listItem {
     margin: 1rem 0 1.25rem;
-    display: flex;
+    width: 40%;
     background-color: #f1f1f1;
     border-radius: 1px;
     border: 1px solid;
@@ -98,15 +98,17 @@
     box-shadow: 8px 12px #2a2a2a;
   }
 
+  .listItemContainer {
+    padding: 2px 16px;
+  }
+
   .playerItem:hover {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(180,180,180,1) 0%, rgba(246,0,0,1) 100%);
   }
 
   .listImg {
-    max-width: 230px;
-    margin-right: 1rem;
-    border-radius: .4px;
+    width: 100%;
   }
   
   .lightText {
@@ -119,5 +121,8 @@
     }
     .playerFlex {
       flex-wrap: wrap;
+    }
+    .playerItem {
+      max-height: 300px;
     }
    }
