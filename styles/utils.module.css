@@ -126,4 +126,8 @@
     .listItem {
       width: 80%;
     }
+    .profile_card {
+      min-width: 80%;
+      margin: 0 auto;
+     }
    }
