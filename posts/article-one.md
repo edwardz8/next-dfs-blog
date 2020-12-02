@@ -1,7 +1,7 @@
 ---
 title: 'Populate SQL Database with CSV 🏒'
 date: '2020-12-02'
-thumbnail: /images/montreal_arena.jpg
+thumbnail: /images/skates-puck-rotorink.jpg
 ---
 
 This should be a multi-part series where we will use Node and GraphQL, as well as a 
