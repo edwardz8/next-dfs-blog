@@ -1,6 +1,6 @@
 import '../styles/global.css'
 import React from 'react'
-import { useRouter } from 'next/router'
+import { useRouter, useEffect } from 'next/router'
 import * as gtag from '../lib/gtag'
 
 export default function App({ Component, pageProps }) {
