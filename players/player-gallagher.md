@@ -1,11 +1,11 @@
 ---
-name: 'Brendan_Gallagher'
+name: 'Brendan Gallagher'
 profile: 'Brendan Gallagher is an explosive 28-year-old wing for the Montreal Canadiens'
 preview: 'Gallagher signs 6-year extension'
 thumbnail: /images/Brendan_Gallagher.svg
 position: Wing
-salary: $6900
-date: '2020-06-27'
+salary: $6000
+date: '2020-10-27'
 ---
 
 
