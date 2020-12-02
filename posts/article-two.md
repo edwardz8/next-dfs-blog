@@ -1,5 +1,5 @@
 ---
-title: 'Top 10 Fantasy Hockey Players for 2021'
+title: 'Top 80 Fantasy Hockey Players for 2021'
 date: '2021-12-15'
 thumbnail: /images/maple-leafs.jpg
 ---
