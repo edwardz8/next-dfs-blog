@@ -21,8 +21,8 @@ export default function Home({ allPostsData }) {
         <Link href="/players">
         <button className="button button5">Player Profiles</button>
         </Link>
-        <Link href="/newsletter">
-        <button className="button button5">Newsletter</button>
+        <Link href="/download">
+        <button className="button button5">Fantasy Hockey Cheat Sheet</button>
         </Link>
       </div>
        <Head>

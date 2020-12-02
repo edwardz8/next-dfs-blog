@@ -4,15 +4,6 @@ date: '2020-01-01'
 thumbnail: /images/ortiz.jpg
 ---
 
----
-# Best Flashback Players to Target in MLBTheShow20
-
-- - -
-
-- - -
-
-- - -
-
 ## Miguel Cabrera - RF - *81*
 
 The 2004 Breakout Card holds 74 Power against right-handers, 75 Power against lefties and a solid 85 Contact against righties. Those numbers may seem average but this card rakes. You can also put him at 3B if you're comfortable with his 62 fielder rating. That 2004 season, while not as good as his 2005 campaign, the 21-year-old Cabrera tallied 112 RBI, scored 101 runs and batted .294 with 33 homers.
