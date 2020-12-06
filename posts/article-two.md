@@ -1,21 +1,21 @@
 ---
 title: 'Top 80 Fantasy Hockey Players for 2021'
-date: '2021-12-15'
-thumbnail: /images/maple-leafs.jpg
+date: '2020-12-07'
+thumbnail: /images/skates-puck-rotorink.jpg
 ---
 
 ## Top 10 Goalies
 
-1. Andrei Vasilevskiy, Tampa Bay Lightning
-2. Connor Hellebuyck, Winnipeg Jets
-3. Robin Lehner, Vegas Golden Knights
-4. Tuukka Rask, Boston Bruins
-5. Igor Shesterkin, New York Rangers
-6. Frederik Andersen, Toronto Maple Leafs
-7. Philipp Grubauer, Colorado Avalanche
-8. Cart Hart, Philadelphia Flyers
-9. Ilya Samsonov, Washington Capitals
-10. Braden Holtby, Vancouver Canucks
+1. Andrei Vasilevskiy, Lightning
+2. Connor Hellebuyck, Jets
+3. Robin Lehner, Golden Knights
+4. Tuukka Rask, Bruins
+5. Igor Shesterkin, Rangers
+6. Frederik Andersen, Maple Leafs
+7. Philipp Grubauer, Avalanche
+8. Cart Hart, Flyers
+9. Ilya Samsonov, Capitals
+10. Braden Holtby, Canucks
 
 ## Top 70 Skaters
 
@@ -30,15 +30,15 @@ thumbnail: /images/maple-leafs.jpg
 9. Sebastian Aho, Center, Hurricanes
 10. Elias Pettersson, Center, Canucks
 11. Brayden Point, Center, Lightning
-12. Sidney Crosby, C, Penguins
-13. Mika Zibanejad, C, Rangers
-14. Jake Guentzel, LW/RW, PIT
+12. Sidney Crosby, Center, Penguins
+13. Mika Zibanejad, Center, Rangers
+14. Jake Guentzel, Wing, Penguins
 15. Mikko Rantanen, Wing, Avalanche
 16. Taylor Hall, Wing, Sabres
-17. Andrei Svechnikov, LW/RW, Hurricanes
-18. Matthew Tkachuk, LW/RW, Flames
+17. Andrei Svechnikov, Wing, Hurricanes
+18. Matthew Tkachuk, Wing, Flames
 19. Mark Scheifele, Center, Jets
-20. Gabriel Landeskog, Center/Wing, COL
+20. Gabriel Landeskog, Center/Wing, Avalanche
 21. Johnny Gaudreau, Wing, Flames
 22. Evgeni Malkin, Center, Penguins
 23. Roman Josi, Defenseman, Predators
@@ -51,17 +51,17 @@ thumbnail: /images/maple-leafs.jpg
 30. John Carlson, Defenseman, Capitals
 31. Patrice Bergeron, Center, Bruins 
 32. Mitchell Marner, Wing, Maple Leafs
-33. David Pastrnak, Wing, BOS - INJURED
+33. David Pastrnak, Wing, Bruins - INJURED
 34. William Nylander, Wing, Maple Leafs
 35. J.T. Miller, Wing, Canucks
 36. Alex Pietrangelo, Defenseman, Golden Knights
 37. Seth Jones, Defenseman, Blue Jackets
-38. Brad Marchand, Wing, BOS - INJURED
+38. Brad Marchand, Wing, Bruins - INJURED
 39. Patrik Laine, Wing, Jets
 40. Ryan O'Reilly, Center, Blues
-41. Blake Wheeler, Center/Wing, WPG
+41. Blake Wheeler, Center/Wing, Jets
 42. Jamie Benn, Center/Wing, Stars
-43. Jonathan Huberdeau, Wing, FLA
+43. Jonathan Huberdeau, Wing, Panthers
 44. Nicklas Backstrom, Center, Capitals 
 45. Alexis Lafreniere, Wing, Rangers
 46. Brent Burns, Defenseman, Sharks

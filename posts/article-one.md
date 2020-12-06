@@ -1,11 +1,10 @@
 ---
 title: 'Populate SQL Database with CSV 🏒'
 date: '2020-12-02'
-thumbnail: /images/skates-puck-rotorink.jpg
+thumbnail: /images/hockey-goalie.jpg
 ---
 
-This should be a multi-part series where we will use Node and GraphQL, as well as a 
-front-end framework to display data from our database. For now, we will demonstrate how to populate our database with some values from a CSV file.
+This post demonstrates how to populate our database with some values from a CSV file.
 
 Before we get started we’re going to need some things installed: PostgreSQL and Node. Then we will need to create a database. If you are a Mac user I’d recommend installing PostgreSQL through Homebrew.
 
