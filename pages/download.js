@@ -31,7 +31,7 @@ return (
       </section>
 
       <main style={{display: 'none'}}>
-       <button onClick={handleDownload('https://rosterbox.netlify.app/vue-typescript.pdf', 'vue-typescript.pdf')} 
+       <button onClick={handleDownload('https://rosterbox.netlify.app/hockey_fantasy_2021.pdf', 'hockey_fantasy_2021.pdf')} 
         className="button button5">Download Rankings
         </button>
       </main>
