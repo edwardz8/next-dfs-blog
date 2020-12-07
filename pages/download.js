@@ -28,7 +28,7 @@ return (
       </section>
 
       <main style={{display: 'none'}}>
-       <button onClick={handleDownload('http://rosterbox.netlify.com/download', 'vue-typescript.pdf')} 
+       <button onClick={handleDownload('https://rosterbox.netlify.com/download', 'vue-typescript.pdf')} 
         className="button button5">Download Rankings
         </button>
       </main>
