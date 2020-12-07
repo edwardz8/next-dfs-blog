@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css'
 
 const name = 'rosterbox'
 export const siteTitle = 'rosterbox daily fantasy sports and betting'
-export const description = 'rosterbox daily fantasy sports and betting and player profiles'
+export const description = 'rosterbox daily fantasy sports and betting and player profiles. tech articles with a sports focus.'
 
 export default function Layout({ children, home }) {
 return (
