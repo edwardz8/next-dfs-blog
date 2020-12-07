@@ -30,7 +30,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Welcome to rosterbox, the next exciting thing in betting and daily fantasy sports.</p>
-         <p>We feature player profiles and articles on your favorite teams.</p>
+         <p>We feature player profiles and articles on your favorite teams. tech articles with a sports focus.</p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
