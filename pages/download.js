@@ -24,11 +24,11 @@ return (
         <title>{siteTitle}</title>
       </Head>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Thank you for downloading the rosterbox fantasy hockey cheatsheet!</h2>
+        <h2 className={utilStyles.headingLg}>Thank you for downloading the rosterbox editable fantasy hockey cheatsheet!</h2>
       </section>
 
       <main style={{display: 'none'}}>
-       <button onClick={handleDownload('https://rosterbox.netlify.com/download', 'vue-typescript.pdf')} 
+       <button onClick={handleDownload('https://rosterbox.netlify.com/vue-typescript.pdf', 'vue-typescript.pdf')} 
         className="button button5">Download Rankings
         </button>
       </main>
