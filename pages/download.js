@@ -12,6 +12,9 @@ export default function Download() {
         axios.get(url, {
           method: 'GET',
           responseType: 'blob',
+          headers:{
+            'Access-Control-Allow-Origin': '*'
+        },
         })
         .then((res) => {
           fileDownload(res.data, filename)
@@ -28,7 +31,7 @@ return (
       </section>
 
       <main style={{display: 'none'}}>
-       <button onClick={handleDownload('https://rosterbox.netlify.com/vue-typescript.pdf', 'vue-typescript.pdf')} 
+       <button onClick={handleDownload('https://rosterbox.netlify.app/vue-typescript.pdf', 'vue-typescript.pdf')} 
         className="button button5">Download Rankings
         </button>
       </main>
