@@ -14,6 +14,19 @@ return (
             <link rel="icon" href="../public/box-icon.svg" />
             <meta name="og:description" content={description} />
             <meta name="og:title" content={siteTitle} />
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y110STSVX9"></script>
+            <script
+                dangerouslySetInnerHTML={{
+                  __html: `
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', 'G-Y110STSVX9', {
+                      page_path: window.location.pathname,
+                    });
+                  `,
+                }}
+              />
         </Head>
         <header className={styles.header}>
             {home ? (

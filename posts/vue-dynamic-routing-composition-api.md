@@ -4,7 +4,7 @@ date: '2020-12-08'
 thumbnail: /images/maple-leafs.jpg
 ---
 
-With Vue 3 still being quite new there seemingly aren't too many resources out there just yet on the subject, at least from what I could find, and I was able to only find examples for the Options API, but Vue 2 is old news and I figured it was time to progress forward and use the latest and greatest ( though there is nothing wrong with using Vue 2 ) so I set out to create a small application demonstrating how to simplify dynamic routing for those beginner to intermediate level developers who may be struggling to find or curious about exactly what the best practice is for routing while using the Composition API in Vue 3 as well as Vuex 4 and Vue-Router.
+With Vue 3 still being quite new there seemingly aren't too many resources out there just yet on the subject, at least from what I could find, and I was able to only find examples for the Options API, but Vue 2 is old news ( only kidding, halfway ) and I figured it was time to progress forward and use the latest and greatest so I set out to create a small application demonstrating how to simplify dynamic routing for those beginner to intermediate level developers who may be struggling to find or curious about exactly what the best practice is for routing while using the Composition API in Vue 3 as well as Vuex 4 and Vue-Router.
 
 A working example with all the code can be found in this <a href="https://codesandbox.io/s/vue-3-vuex-4-vue-router-nvebt">CodeSandBox</a> if you don't want to go through this entire post.
 
